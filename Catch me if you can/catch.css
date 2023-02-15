@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+}
+
+#box{
+    width: 125px;
+    height: 125px;
+    background: #AB00EB;
+    position: absolute;
+    text-align: center;
+    color: white;
+}
